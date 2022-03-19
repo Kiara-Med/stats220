@@ -2,12 +2,12 @@
 
 ## The purpose of this repository is to display the work needed for part a of assignment 1 for my STATS 220 course.
 
-The aim of part a is to create an original meme using all the concepts that was used in Module 1 and in labs 1 and 2 of the course.
+The aim of part a is to create an original meme using **all** the concepts that was used in *Module 1 and in labs 1 and 2* of the course.
 
 #### The concepts used in this module are:
-1. The usage of the R package magick and using functions within this package
+1. The usage of the R package [magick](https://cran.r-project.org/web/packages/magick/index.html) and using functions within this package such as ```image_append()```
 2. The usage of vectors
-3. The usage of pipes and named objects
+3. The usage of pipes ```%>%``` and named objects ``` meme <- ```
 #### This repository includes:
 
 1. an index.md file that contains **all** of the information on how I created the meme. This includes:
@@ -15,7 +15,9 @@ The aim of part a is to create an original meme using all the concepts that was 
     * The photos and links to the photos that I used to create the meme
     * The R code that I wrote to create the meme
     
-2. The png file of the meme
+2. The png file of the meme (of which we can see below)
+
+![](my_meme.png)
 
 
 
